@@ -2,7 +2,7 @@
 
 A production-ready, institutional-grade liquidation engine for Solana-based leveraged trading protocols. Built with Rust, Anchor, and Next.js.
 
-## 🎯 Overview
+##  Overview
 
 This system monitors leveraged positions in real-time and automatically liquidates undercollateralized positions to protect the protocol from bad debt. It features intelligent partial/full liquidation logic, an insurance fund mechanism, and a beautiful real-time monitoring dashboard.
 
