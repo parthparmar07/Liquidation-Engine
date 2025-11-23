@@ -63,7 +63,7 @@ This system monitors leveraged positions in real-time and automatically liquidat
   - `/dashboard`: Main monitoring interface
   - `/settings`: Configuration
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 - Rust 1.70+
