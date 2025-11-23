@@ -156,7 +156,7 @@ cargo tarpaulin --out Html
 cargo test --release stress_test -- --ignored
 ```
 
-## 📈 Performance Metrics
+## Performance Metrics
 
 - **Liquidation Latency**: < 50ms average
 - **Monitoring Frequency**: 2 seconds
