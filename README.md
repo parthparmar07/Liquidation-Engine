@@ -164,7 +164,7 @@ cargo test --release stress_test -- --ignored
 - **Database Operations**: < 10ms
 - **WebSocket Latency**: < 5ms
 
-## 🛡️ Security Features
+## Security Features
 
 - ✅ Position health validation
 - ✅ Insurance fund for bad debt
