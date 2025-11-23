@@ -259,7 +259,7 @@ vercel deploy --prod
 
 MIT License - see LICENSE file
 
-## 👥 Author
+## Author
 
 Parth Parmar - [GitHub](https://github.com/parthparmar07)
 
