@@ -37,7 +37,7 @@ This system monitors leveraged positions in real-time and automatically liquidat
 └─────────────────┘
 ```
 
-## 📦 Components
+## Components
 
 ### 1. Smart Contract (Anchor)
 - **Location**: `programs/liquidation-engine/`
