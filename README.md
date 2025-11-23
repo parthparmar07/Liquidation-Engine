@@ -142,7 +142,7 @@ Health Factor = (Collateral + Unrealized PnL) / Position Value
 - Prevents bad debt
 - Transfers to insurance fund
 
-## 🧪 Testing
+## Testing
 
 ```bash
 # Run all tests
