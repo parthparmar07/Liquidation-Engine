@@ -255,7 +255,7 @@ npm run build
 vercel deploy --prod
 ```
 
-## 📄 License
+## License
 
 MIT License - see LICENSE file
 
