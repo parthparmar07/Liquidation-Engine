@@ -16,7 +16,7 @@ This system monitors leveraged positions in real-time and automatically liquidat
 - **Professional UI**: Glassmorphism design with animations
 - **Comprehensive Testing**: Unit tests and stress tests included
 
-## 🏗️ Architecture
+## Architecture
 
 ```
 ┌─────────────────┐
