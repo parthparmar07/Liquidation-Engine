@@ -263,7 +263,7 @@ MIT License - see LICENSE file
 
 Parth Parmar - [GitHub](https://github.com/parthparmar07)
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Solana Foundation
 - Anchor Framework
