@@ -173,7 +173,7 @@ cargo test --release stress_test -- --ignored
 - ✅ Transaction retry mechanism
 - ✅ Comprehensive error handling
 
-## 📚 API Documentation
+## API Documentation
 
 ### REST Endpoints
 
