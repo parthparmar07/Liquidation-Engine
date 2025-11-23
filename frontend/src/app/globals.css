@@ -1,0 +1,71 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: #0d0d0f;
+    --foreground: #ffffff;
+    --card: rgba(255, 255, 255, 0.02);
+    --card-border: rgba(255, 255, 255, 0.06);
+    --primary: #8b5cf6;
+    --secondary: #06b6d4;
+    --muted: #71717a;
+  }
+
+  body {
+    @apply bg-[#0d0d0f] text-white antialiased;
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  }
+}
+
+@layer utilities {
+  .glass-card {
+    @apply bg-white/[0.02] backdrop-blur-xl border border-white/[0.06] rounded-2xl;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.25);
+  }
+
+  .glass-card-hover {
+    @apply transition-all duration-300;
+  }
+
+  .glass-card-hover:hover {
+    @apply bg-white/[0.04] border-white/[0.1] -translate-y-1;
+    box-shadow: 0 10px 40px -10px rgba(139, 92, 246, 0.2);
+  }
+
+  .glass-panel {
+    @apply bg-[#0d0d0f]/80 backdrop-blur-2xl border-r border-white/[0.06];
+  }
+
+  .text-gradient {
+    @apply bg-gradient-to-r from-purple-400 via-fuchsia-400 to-cyan-400 bg-clip-text text-transparent;
+  }
+
+  .neon-glow {
+    box-shadow: 0 0 10px rgba(139, 92, 246, 0.5), 0 0 20px rgba(139, 92, 246, 0.3);
+  }
+
+  .btn-primary {
+    @apply px-6 py-2.5 rounded-xl bg-gradient-to-r from-purple-600 to-indigo-600 border border-white/10 text-white font-medium transition-all duration-300;
+    box-shadow: 0 4px 20px -5px rgba(124, 58, 237, 0.5);
+  }
+
+  .btn-primary:hover {
+    box-shadow: 0 0 25px rgba(139, 92, 246, 0.6);
+    @apply scale-[1.02] brightness-110;
+  }
+
+  .custom-scrollbar::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+  }
+
+  .custom-scrollbar::-webkit-scrollbar-track {
+    background: transparent;
+  }
+
+  .custom-scrollbar::-webkit-scrollbar-thumb {
+    @apply bg-white/10 rounded-full hover:bg-purple-500/50 transition-colors;
+  }
+}
