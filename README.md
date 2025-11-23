@@ -219,7 +219,7 @@ cargo test --release stress_test -- --ignored
 }
 ```
 
-## 🎨 Frontend Features
+## Frontend Features
 
 - **Landing Page**: Professional marketing page with animations
 - **Dashboard**: Real-time position monitoring
