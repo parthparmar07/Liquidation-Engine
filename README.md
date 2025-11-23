@@ -228,7 +228,7 @@ cargo test --release stress_test -- --ignored
 - **Leaderboard**: Top liquidators
 - **Settings**: Configuration panel
 
-## 🐛 Known Issues & Limitations
+## Known Issues & Limitations
 
 - Oracle currently uses mock data (integrate Pyth in production)
 - Single-threaded liquidation execution
