@@ -725,4 +725,3 @@ ps aux | grep liquidation-engine-service
 
 For deployment issues:
 - GitHub Discussions: https://github.com/parthparmar07/Liquidation-Engine/discussions
-- Email: devops@liquidation-engine.com
