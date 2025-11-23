@@ -601,4 +601,3 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 
 For API issues or questions:
 - GitHub Issues: https://github.com/parthparmar07/Liquidation-Engine/issues
-- Email: support@liquidation-engine.com (example)
