@@ -234,7 +234,7 @@ cargo test --release stress_test -- --ignored
 - Single-threaded liquidation execution
 - SQLite database (use PostgreSQL for production)
 
-## 🚀 Production Deployment
+## Production Deployment
 
 ### Backend
 ```bash
