@@ -272,4 +272,4 @@ Parth Parmar - [GitHub](https://github.com/parthparmar07)
 
 ---
 
-**⚠️ Disclaimer**: This is a demonstration project. Audit thoroughly before using in production with real funds.
+**Disclaimer**: This is a demonstration project. Audit thoroughly before using in production with real funds.
