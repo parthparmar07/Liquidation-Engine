@@ -166,12 +166,12 @@ cargo test --release stress_test -- --ignored
 
 ## Security Features
 
-- ✅ Position health validation
-- ✅ Insurance fund for bad debt
-- ✅ Oracle price staleness checks
-- ✅ Deduplication of liquidations
-- ✅ Transaction retry mechanism
-- ✅ Comprehensive error handling
+- Position health validation
+- Insurance fund for bad debt
+- Oracle price staleness checks
+- Deduplication of liquidations
+- Transaction retry mechanism
+- Comprehensive error handling
 
 ## API Documentation
 
